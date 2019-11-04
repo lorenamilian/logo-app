@@ -1,0 +1,18 @@
+body{
+    background-image: url(4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+.container {
+    background: rgb(66, 62, 62);
+    background-size: cover;
+    margin: 50px 30% 80px 30%;
+    padding: 30px 15px;
+    padding: 50px, 20px;
+    box-shadow: 10px 10px 5px 5px rgb(0, 0, 0);
+    border-radius: 10px;
+  }
